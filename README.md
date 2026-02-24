@@ -321,14 +321,3 @@ bash scripts/start.sh logs       # 查看日志
 如有问题或建议，请pr：
 
 - 项目有很多问题，基础功能可以运行起来，扩充项目代码全由AI开发，所以进展比较缓慢，请谅解。
-- 如你有好的想法或修复，欢迎提交GitHub Issue
-
-## 👥 Contributors
-
-感谢所有为本项目做出贡献的开发者！
-
-<a href="https://github.com/LargeCupPanda/StockAnal_Sys/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=LargeCupPanda/StockAnal_Sys" />
-</a>
-
-感谢使用智能分析系统！
